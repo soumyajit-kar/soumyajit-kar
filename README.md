@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate frontend developer from Earth</h3>
+<h3 align="center">A passionate fullStack developer from Earth</h3>
 
 - 🔭 I’m currently working on **AI intgreted system**
 
